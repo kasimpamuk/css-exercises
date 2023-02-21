@@ -1,0 +1,13 @@
+.myclass {
+    font-size: 48px;
+    font-family: Helvetica, 'Times New Roman' ,sans-serif;
+}
+
+#button1 {
+    background-color: black;
+    color: white;
+}
+
+#button2 {
+    background-color: rgb(107, 41, 41);
+}
